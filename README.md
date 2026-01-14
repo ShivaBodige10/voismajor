@@ -22,7 +22,8 @@ This project demonstrates how to use **Machine Learning (Random Forest)** and **
 ## 📂 Files
 - `app.py`: The main Python application code.
 - `requirements.txt`: List of libraries used.
-- `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv`: The dataset (CIC-IDS2017 subset) link:https://drive.google.com/file/d/1vwgHkBcmE59cFwyQrG3PBhTia4gnJC3S/view?usp=sharing.
+- `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv`: The dataset (CIC-IDS2017 subset)
+- dataset link:https://drive.google.com/file/d/1vwgHkBcmE59cFwyQrG3PBhTia4gnJC3S/view?usp=sharing.
 
 ## 🎓 About
 Created for a university cybersecurity project to demonstrate the integration of traditional ML and LLMs in security operations.
